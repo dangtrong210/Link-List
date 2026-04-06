@@ -98,6 +98,6 @@ void printNode(list *mylist){
 > [!NOTE]
 > Có thể sử dụng cách duyệt lần lượt các Node như hàm printNode để tạo các hàm như: tìm kiếm (search), xóa (delete),...
 ## 3. Lợi ích khi sử dung danh sách liên kết so với mảng (array):
-* 3.1. Cấp phát bộ nhớ linh hoạt.
-* 3.2. Tiết kiệm bộ nhớ hơn so với tạo mảng.
-* 3.3. Dễ dàng truy xuất dữ liệu.
+* Cấp phát bộ nhớ linh hoạt.
+* Tiết kiệm bộ nhớ hơn so với tạo mảng.
+* Dễ dàng truy xuất dữ liệu.
