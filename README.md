@@ -29,7 +29,7 @@ NODE *new(int value){
     return newNode;
 }
 ````
-**2.4. Tạo danh sách rỗng: khi chưa nhập dữ liệu thì ta phải cho dữ liệu một giá trị rỗng (NULL) trong danh sách để thực hiện các thao tác khác trong danh sách liên kết**
+**2.4. Tạo danh sách rỗng: Khi chưa nhập dữ liệu thì ta phải cho dữ liệu một giá trị rỗng (NULL) trong danh sách để thực hiện các thao tác khác trong danh sách liên kết**
 ````ruby
 void init(list *l){
     l->head=NULL;
